@@ -1,0 +1,26 @@
+{
+  "name": "webrtc-peer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haixiangyan/webrtc-peer.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haixiangyan/webrtc-peer.js/issues"
+  },
+  "homepage": "https://github.com/haixiangyan/webrtc-peer.js#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "peer": "^0.6.1",
+    "peerjs": "^1.3.2"
+  }
+}
